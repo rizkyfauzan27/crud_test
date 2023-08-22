@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nama": "pulpen",
+      "hargaBeli": 5000,
+      "hargaJual": 8000,
+      "stok": 10,
+      "foto": "gambar.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "buku",
+      "hargaBeli": 2000,
+      "hargaJual": 9000,
+      "stok": 5,
+      "foto": "gambar1.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "pensil",
+      "hargaBeli": 3000,
+      "hargaJual": 5000,
+      "stok": 8,
+      "foto": "gambar2.jpg"
+    }
+  ]
+}
